@@ -29,6 +29,8 @@ sheet.data[2][6] = 900;
 sheet.data[6] = [];
 sheet.data[6][2] = 1972;
 
+sheet.mergeCells([1,4],[1,5]);
+
 // Using setCell:
 sheet.setCell ( 'E7', 340 );
 sheet.setCell ( 'I1', -3 );
