@@ -37,6 +37,9 @@ sheet.setCell ( 'I1', -3 );
 sheet.setCell ( 'I2', 31.12 );
 sheet.setCell ( 'G102', 'Hello World!' );
 
+sheet.setCellStyle(1,6, 'title');
+sheet.setCellStyle(1,3, 'caption');
+
 var out = fs.createWriteStream ( 'out.xlsx' );
 
 out.on ( 'error', function ( err ) {
