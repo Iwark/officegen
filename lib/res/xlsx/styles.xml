@@ -72,7 +72,9 @@
         <xf numFmtId="0" fontId="2" fillId="0" borderId="0" xfId="0" applyFont="2" />
         <xf numFmtId="0" fontId="3" fillId="0" borderId="0" xfId="0" applyFont="3" />
         <xf numFmtId="0" fontId="4" fillId="0" borderId="0" xfId="0" applyFont="4" />
-        <xf numFmtId="0" fontId="5" fillId="0" borderId="0" xfId="0" applyFont="5" />
+        <xf numFmtId="0" fontId="5" fillId="0" borderId="0" xfId="0" applyFont="5">
+            <alignment textRotation="0" horizontal="center" vertical="top"/>
+        </xf>
     </cellXfs>
     <cellStyles count="1">
         <cellStyle name="Normal" xfId="0" builtinId="0"/>
