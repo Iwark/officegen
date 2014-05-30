@@ -162,7 +162,7 @@
         <xf numFmtId="0" fontId="5" fillId="0" borderId="5" xfId="0" applyFont="5">
             <alignment textRotation="0" horizontal="center" vertical="center"/>
         </xf>
-        <xf numFmtId="0" fontId="5" fillId="0" borderId="6" xfId="0" applyFont="5">
+        <xf numFmtId="0" fontId="3" fillId="0" borderId="6" xfId="0" applyFont="3">
             <alignment textRotation="0" horizontal="center" vertical="center"/>
         </xf>
     </cellXfs>
