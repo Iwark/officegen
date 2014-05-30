@@ -132,7 +132,9 @@
                 <color indexed="64"/>
             </right>
             <top/>
-            <bottom/>
+            <bottom style="thin">
+                <color indexed="64"/>
+            </bottom>
             <diagonal/>
         </border>
     </borders>
