@@ -65,7 +65,7 @@
             <patternFill patternType="gray125"/>
         </fill>
     </fills>
-    <borders count="4">
+    <borders count="7">
         <border>
             <left/>
             <right/>
@@ -108,6 +108,33 @@
             </bottom>
             <diagonal/>
         </border>
+        <border>
+            <left/>
+            <right/>
+            <top/>
+            <bottom style="medium">
+                <color indexed="64"/>
+            </bottom>
+            <diagonal/>
+        </border>
+        <border>
+            <left/>
+            <right/>
+            <top/>
+            <bottom style="thin">
+                <color indexed="64"/>
+            </bottom>
+            <diagonal/>
+        </border>
+        <border>
+            <left/>
+            <right style="thin">
+                <color indexed="64"/>
+            </right>
+            <top/>
+            <bottom/>
+            <diagonal/>
+        </border>
     </borders>
     <cellStyleXfs count="1">
         <xf numFmtId="0" fontId="0" fillId="0" borderId="0"/>
@@ -125,6 +152,15 @@
             <alignment textRotation="0" horizontal="center" vertical="center"/>
         </xf>
         <xf numFmtId="0" fontId="6" fillId="0" borderId="3" xfId="0" applyFont="6">
+            <alignment textRotation="0" horizontal="center" vertical="center"/>
+        </xf>
+        <xf numFmtId="0" fontId="5" fillId="0" borderId="4" xfId="0" applyFont="5">
+            <alignment textRotation="0" horizontal="center" vertical="center"/>
+        </xf>
+        <xf numFmtId="0" fontId="5" fillId="0" borderId="5" xfId="0" applyFont="5">
+            <alignment textRotation="0" horizontal="center" vertical="center"/>
+        </xf>
+        <xf numFmtId="0" fontId="5" fillId="0" borderId="6" xfId="0" applyFont="5">
             <alignment textRotation="0" horizontal="center" vertical="center"/>
         </xf>
     </cellXfs>
