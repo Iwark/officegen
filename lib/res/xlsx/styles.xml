@@ -77,7 +77,7 @@
             <left/>
             <right/>
             <top/>
-            <bottom style="medium">
+            <bottom style="thin">
                 <color indexed="64"/>
             </bottom>
             <diagonal/>
